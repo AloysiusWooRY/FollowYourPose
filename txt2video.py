@@ -82,9 +82,9 @@ def main(
         # now = datetime.datetime.now().strftime("%Y-%m-%dT%H-%M-%S")
         # output_dir = os.path.join(output_dir, now)
         os.makedirs(output_dir, exist_ok=True)
-        os.makedirs(f"{output_dir}/samples", exist_ok=True)
-        os.makedirs(f"{output_dir}/inv_latents", exist_ok=True)
-        OmegaConf.save(config, os.path.join(output_dir, 'config.yaml'))
+        # os.makedirs(f"{output_dir}/samples", exist_ok=True)
+        # os.makedirs(f"{output_dir}/inv_latents", exist_ok=True)
+        # OmegaConf.save(config, os.path.join(output_dir, 'config.yaml'))
 
     # Load scheduler, tokenizer and models.
     noise_scheduler = DDPMScheduler.from_pretrained(pretrained_model_path, subfolder="scheduler")
@@ -146,7 +146,7 @@ def main(
     if resume_from_checkpoint:
         if resume_from_checkpoint != "latest":
             load_path = resume_from_checkpoint
-            output_dir = os.path.abspath(os.path.join(resume_from_checkpoint, ".."))
+            # output_dir = os.path.abspath(os.path.join(resume_from_checkpoint, ".."))
         accelerator.print(f"load from checkpoint {load_path}")
         accelerator.load_state(load_path)
 
@@ -168,10 +168,10 @@ def main(
             sample = validation_pipeline(prompt, generator=generator, latents=ddim_inv_latent,
                                         skeleton_path=skeleton_path,
                                         **validation_data).videos
-            save_videos_grid(sample, f"{output_dir}/inference/sample-{global_step}-{str(seed)}-{now}/{prompt}.gif")
+            save_videos_grid(sample, f"{output_dir}/sample-{global_step}-{str(seed)}-{now}/{prompt}.gif")
             samples.append(sample)
         samples = torch.concat(samples)
-        save_path = f"{output_dir}/inference/sample-{global_step}-{str(seed)}-{now}.gif"
+        save_path = f"{output_dir}/sample-{global_step}-{str(seed)}-{now}.gif"
         save_videos_grid(samples, save_path)
         logger.info(f"Saved samples to {save_path}")
 
