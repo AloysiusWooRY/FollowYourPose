@@ -50,8 +50,8 @@ class HDVilaDataset(Dataset):
             pass
         print('dataset rank:', global_rank, ' / ',all_rank, ' ')
         
-        self.data_dir = '/content/training_video'
-        self.text_name = 'caption.csv'
+        self.data_dir = video_path
+        self.text_name = 'metadata.tsv'
         self.meta_path = os.path.join(self.data_dir, self.text_name)
         
         spatial_transform = 'resize_center_crop'
@@ -98,8 +98,8 @@ class HDVilaDataset(Dataset):
         count=-1
         total_count = 8854264 #8856312 - 2048
 
-        with open(caption_path, 'r',encoding="utf-8") as csvfile: #41s
-            reader = csv.DictReader(csvfile)
+        with open(caption_path, 'r',encoding="utf-8") as tsvfile: #41s
+            reader = csv.DictReader(tsvfile, delimiter='\t')
             for row in reader:
                 if row['clip_id'] != last_clip_id:
                     count+=1
@@ -109,7 +109,6 @@ class HDVilaDataset(Dataset):
                     if count % self.all_rank == self.global_rank:
                         self.metadata.append([f"{row['part_id']}/{row['clip_id']}"]) 
                         self.metadata[-1].append([row['caption']])
-                        print(self.metadata)
                 else:
                     if count % self.all_rank == self.global_rank:
                         self.metadata[-1][-1].append(row['caption'])
