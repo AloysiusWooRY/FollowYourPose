@@ -11,8 +11,8 @@
 <!-- ![fatezero_demo](./docs/teaser.png) -->
 
 <table class="center">
-  <td><img src="https://github.com/mayuelala/FollowYourPose/gif_results/new_result_0830/a_man_in_the_park.gif"></td>
-  <td><img src="https://github.com/mayuelala/FollowYourPose/gif_results/new_result_0830/a_Iron_man_in_the_street.gif"></td>
+  <td><img src="https://raw.githubusercontent.com/mayuelala/FollowYourPose/main/gif_results/new_result_0830/a_man_in_the_park.gif"></td>
+  <td><img src="https://raw.githubusercontent.com/mayuelala/FollowYourPose/main/gif_results/new_result_0830/a_Iron_man_in_the_street.gif"></td>
   <tr>
   <td width=25% style="text-align:center;">"The man is sitting on chair, on the park"</td>
   <td width=25% style="text-align:center;">"The Iron man, on the street
@@ -20,8 +20,8 @@
   <!-- <td width=25% style="text-align:center;">"Wonder Woman, wearing a cowboy hat, is skiing"</td>
   <td width=25% style="text-align:center;">"A man, wearing pink clothes, is skiing at sunset"</td> -->
 </tr>
-<td><img src="https://github.com/mayuelala/FollowYourPose/gif_results/new_result_0830/a_strom.gif"></td>
-<td><img src="https://github.com/mayuelala/FollowYourPose/gif_results/new_result_0830/a_astronaut_cartoon.gif"></td>
+<td><img src="https://raw.githubusercontent.com/mayuelala/FollowYourPose/main/gif_results/new_result_0830/a_strom.gif"></td>
+<td><img src="https://raw.githubusercontent.com/mayuelala/FollowYourPose/main/gif_results/new_result_0830/a_astronaut_cartoon.gif"></td>
 <tr>
 <td width=25% style="text-align:center;">"The stormtrooper, in the gym
 "</td>
@@ -160,9 +160,9 @@ Please check our [Project Page](https://follow-your-pose.github.io/) for mp4 fil
 
 <table class="center">
 <tr>
-  <td><img src="https://github.com/mayuelala/FollowYourPose/gif_results/new_result_0830/Trump_on_the_mountain.gif"></td>
-  <td><img src="https://github.com/mayuelala/FollowYourPose/gif_results/new_result_0830/Trump_wear_yellow.gif"></td>
-  <td><img src="https://github.com/mayuelala/FollowYourPose/gif_results/new_result_0830/astranaut_on_the_mountain.gif"></td>
+  <td><img src="https://raw.githubusercontent.com/mayuelala/FollowYourPose/main/gif_results/new_result_0830/Trump_on_the_mountain.gif"></td>
+  <td><img src="https://raw.githubusercontent.com/mayuelala/FollowYourPose/main/gif_results/new_result_0830/Trump_wear_yellow.gif"></td>
+  <td><img src="https://raw.githubusercontent.com/mayuelala/FollowYourPose/main/gif_results/new_result_0830/astranaut_on_the_mountain.gif"></td>
 </tr>
 <tr>
   <td width=25% style="text-align:center;">"Trump, on the mountain
@@ -175,9 +175,9 @@ Please check our [Project Page](https://follow-your-pose.github.io/) for mp4 fil
 <!--#########################################################-->
 <table class="center">
 <tr>
-  <td><img src="https://github.com/mayuelala/FollowYourPose/gif_results/new_result_0830/a_girl_yellow.gif"></td>
-  <td><img src="https://github.com/mayuelala/FollowYourPose/gif_results/new_result_0830/a_Iron_man_on_the_beach.gif"></td>
-  <td><img src="https://github.com/mayuelala/FollowYourPose/gif_results/new_result_0830/hulk_on_the_mountain.gif"></td>
+  <td><img src="https://raw.githubusercontent.com/mayuelala/FollowYourPose/main/gif_results/new_result_0830/a_girl_yellow.gif"></td>
+  <td><img src="https://raw.githubusercontent.com/mayuelala/FollowYourPose/main/gif_results/new_result_0830/a_Iron_man_on_the_beach.gif"></td>
+  <td><img src="https://raw.githubusercontent.com/mayuelala/FollowYourPose/main/gif_results/new_result_0830/hulk_on_the_mountain.gif"></td>
 </tr>
 <tr>
   <td width=25% style="text-align:center;">"girl, simple background"</td>
@@ -189,9 +189,9 @@ Please check our [Project Page](https://follow-your-pose.github.io/) for mp4 fil
 
 <table class="center">
 <tr>
-  <td><img src="https://github.com/mayuelala/FollowYourPose/gif_results/new_result_0830/a_policeman_in_the_street.gif"></td>
-  <td><img src="https://github.com/mayuelala/FollowYourPose/gif_results/new_result_0830/a_girl_in_the_forest.gif"></td>
-  <td><img src="https://github.com/mayuelala/FollowYourPose/gif_results/new_result_0830/Iron_man_in_the_street.gif"></td>
+  <td><img src="https://raw.githubusercontent.com/mayuelala/FollowYourPose/main/gif_results/new_result_0830/a_policeman_in_the_street.gif"></td>
+  <td><img src="https://raw.githubusercontent.com/mayuelala/FollowYourPose/main/gif_results/new_result_0830/a_girl_in_the_forest.gif"></td>
+  <td><img src="https://raw.githubusercontent.com/mayuelala/FollowYourPose/main/gif_results/new_result_0830/Iron_man_in_the_street.gif"></td>
 </tr>
 <tr>
   <td width=25% style="text-align:center;">"A policeman, on the street"</td>
@@ -202,9 +202,9 @@ Please check our [Project Page](https://follow-your-pose.github.io/) for mp4 fil
 <!--#########################################################-->
 <table class="center">
 <tr>
-  <td><img src="https://github.com/mayuelala/FollowYourPose/gif_results/A Robot is dancing in Sahara desert.gif"></td>
-  <td><img src="https://github.com/mayuelala/FollowYourPose/gif_results/sdsdA Iron man on the beach.gif"></td>
-  <td><img src="https://github.com/mayuelala/FollowYourPose/gif_results/A Panda on the sea.gif"></td>
+  <td><img src="https://raw.githubusercontent.com/mayuelala/FollowYourPose/main/gif_results/A Robot is dancing in Sahara desert.gif"></td>
+  <td><img src="https://raw.githubusercontent.com/mayuelala/FollowYourPose/main/gif_results/sdsdA Iron man on the beach.gif"></td>
+  <td><img src="https://raw.githubusercontent.com/mayuelala/FollowYourPose/main/gif_results/A Panda on the sea.gif"></td>
 </tr>
 <tr>
   <td width=25% style="text-align:center;">"A Robot, in Sahara desert"</td>
@@ -215,9 +215,9 @@ Please check our [Project Page](https://follow-your-pose.github.io/) for mp4 fil
 <!--#########################################################-->
 <table class="center">
 <tr>
-  <td><img src="https://github.com/mayuelala/FollowYourPose/gif_results/a man in the park, Van Gogh style.gif"></td>
-  <td><img src="https://github.com/mayuelala/FollowYourPose/gif_results/fireman in the beach.gif"></td>
-  <td><img src="https://github.com/mayuelala/FollowYourPose/gif_results/Batman brown background.gif"></td>
+  <td><img src="https://raw.githubusercontent.com/mayuelala/FollowYourPose/main/gif_results/a man in the park, Van Gogh style.gif"></td>
+  <td><img src="https://raw.githubusercontent.com/mayuelala/FollowYourPose/main/gif_results/fireman in the beach.gif"></td>
+  <td><img src="https://raw.githubusercontent.com/mayuelala/FollowYourPose/main/gif_results/Batman brown background.gif"></td>
 </tr>
 <tr>
 </tr>
@@ -231,9 +231,9 @@ Please check our [Project Page](https://follow-your-pose.github.io/) for mp4 fil
 
 <table class="center">
 <tr>
-  <td><img src="https://github.com/mayuelala/FollowYourPose/gif_results/ertA Hulk on the sea .gif"></td>
-  <td><img src="https://github.com/mayuelala/FollowYourPose/gif_results/lokA Superman on the forest.gif"></td>
-  <td><img src="https://github.com/mayuelala/FollowYourPose/gif_results/A Iron man on the snow.gif"></td>
+  <td><img src="https://raw.githubusercontent.com/mayuelala/FollowYourPose/main/gif_results/ertA Hulk on the sea .gif"></td>
+  <td><img src="https://raw.githubusercontent.com/mayuelala/FollowYourPose/main/gif_results/lokA Superman on the forest.gif"></td>
+  <td><img src="https://raw.githubusercontent.com/mayuelala/FollowYourPose/main/gif_results/A Iron man on the snow.gif"></td>
 
 </tr>
 <tr>
@@ -249,9 +249,9 @@ Please check our [Project Page](https://follow-your-pose.github.io/) for mp4 fil
 
 <table class="center">
 <tr>
-  <td><img src="https://github.com/mayuelala/FollowYourPose/gif_results/A man in the forest, Minecraft.gif"></td>
-  <td><img src="https://github.com/mayuelala/FollowYourPose/gif_results/a man in the sea, at sunset.gif"></td>
-  <td><img src="https://github.com/mayuelala/FollowYourPose/gif_results/James Bond, grey simple background.gif"></td>
+  <td><img src="https://raw.githubusercontent.com/mayuelala/FollowYourPose/main/gif_results/A man in the forest, Minecraft.gif"></td>
+  <td><img src="https://raw.githubusercontent.com/mayuelala/FollowYourPose/main/gif_results/a man in the sea, at sunset.gif"></td>
+  <td><img src="https://raw.githubusercontent.com/mayuelala/FollowYourPose/main/gif_results/James Bond, grey simple background.gif"></td>
 
 </tr>
 <tr>
@@ -267,9 +267,9 @@ Please check our [Project Page](https://follow-your-pose.github.io/) for mp4 fil
 
 <table class="center">
 <tr>
-  <td><img src="https://github.com/mayuelala/FollowYourPose/gif_results/vryvA Panda on the sea.gif"></td>
-  <td><img src="https://github.com/mayuelala/FollowYourPose/gif_results/nbthA Stormtrooper on the sea.gif"></td>
-  <td><img src="https://github.com/mayuelala/FollowYourPose/gif_results/egbA astronaut on the moon.gif"></td>
+  <td><img src="https://raw.githubusercontent.com/mayuelala/FollowYourPose/main/gif_results/vryvA Panda on the sea.gif"></td>
+  <td><img src="https://raw.githubusercontent.com/mayuelala/FollowYourPose/main/gif_results/nbthA Stormtrooper on the sea.gif"></td>
+  <td><img src="https://raw.githubusercontent.com/mayuelala/FollowYourPose/main/gif_results/egbA astronaut on the moon.gif"></td>
 
 </tr>
 <tr>
@@ -285,9 +285,9 @@ Please check our [Project Page](https://follow-your-pose.github.io/) for mp4 fil
 
 <table class="center">
 <tr>
-  <td><img src="https://github.com/mayuelala/FollowYourPose/gif_results/sssA astronaut on the moon.gif"></td>
-  <td><img src="https://github.com/mayuelala/FollowYourPose/gif_results/ccA Robot in Antarctica.gif"></td>
-  <td><img src="https://github.com/mayuelala/FollowYourPose/gif_results/zzzzA Iron man on the beach..gif"></td>
+  <td><img src="https://raw.githubusercontent.com/mayuelala/FollowYourPose/main/gif_results/sssA astronaut on the moon.gif"></td>
+  <td><img src="https://raw.githubusercontent.com/mayuelala/FollowYourPose/main/gif_results/ccA Robot in Antarctica.gif"></td>
+  <td><img src="https://raw.githubusercontent.com/mayuelala/FollowYourPose/main/gif_results/zzzzA Iron man on the beach..gif"></td>
 
 </tr>
 <tr>
@@ -303,9 +303,9 @@ Please check our [Project Page](https://follow-your-pose.github.io/) for mp4 fil
 <!--#########################################################-->
 <table class="center">
 <tr>
-  <td><img src="https://github.com/mayuelala/FollowYourPose/gif_results/yrvA Obama in the desert.gif"></td>
-  <td><img src="https://github.com/mayuelala/FollowYourPose/gif_results/dfcA Astronaut on the beach.gif"></td>
-  <td><img src="https://github.com/mayuelala/FollowYourPose/gif_results/sasqA Iron man on the snow.gif"></td>
+  <td><img src="https://raw.githubusercontent.com/mayuelala/FollowYourPose/main/gif_results/yrvA Obama in the desert.gif"></td>
+  <td><img src="https://raw.githubusercontent.com/mayuelala/FollowYourPose/main/gif_results/dfcA Astronaut on the beach.gif"></td>
+  <td><img src="https://raw.githubusercontent.com/mayuelala/FollowYourPose/main/gif_results/sasqA Iron man on the snow.gif"></td>
 
 </tr>
 <tr>
@@ -321,9 +321,9 @@ Please check our [Project Page](https://follow-your-pose.github.io/) for mp4 fil
 
 <table class="center">
 <tr>
-  <td><img src="https://github.com/mayuelala/FollowYourPose/gif_results/aaaA Stormtrooper on the sea.gif"></td>
-  <td><img src="https://github.com/mayuelala/FollowYourPose/gif_results/A Iron man on the beach..gif"></td>
-  <td><img src="https://github.com/mayuelala/FollowYourPose/gif_results/A astronaut on the moon.gif"></td>
+  <td><img src="https://raw.githubusercontent.com/mayuelala/FollowYourPose/main/gif_results/aaaA Stormtrooper on the sea.gif"></td>
+  <td><img src="https://raw.githubusercontent.com/mayuelala/FollowYourPose/main/gif_results/A Iron man on the beach..gif"></td>
+  <td><img src="https://raw.githubusercontent.com/mayuelala/FollowYourPose/main/gif_results/A astronaut on the moon.gif"></td>
 
 </tr>
 <tr>
@@ -339,9 +339,9 @@ Please check our [Project Page](https://follow-your-pose.github.io/) for mp4 fil
 
 <table class="center">
 <tr>
-  <td><img src="https://github.com/mayuelala/FollowYourPose/gif_results/cdAstronaut on the beach.gif"></td>
-  <td><img src="https://github.com/mayuelala/FollowYourPose/gif_results/cswSuperman on the forest.gif"></td>
-  <td><img src="https://github.com/mayuelala/FollowYourPose/gif_results/cwIron man on the beach..gif"></td>
+  <td><img src="https://raw.githubusercontent.com/mayuelala/FollowYourPose/main/gif_results/cdAstronaut on the beach.gif"></td>
+  <td><img src="https://raw.githubusercontent.com/mayuelala/FollowYourPose/main/gif_results/cswSuperman on the forest.gif"></td>
+  <td><img src="https://raw.githubusercontent.com/mayuelala/FollowYourPose/main/gif_results/cwIron man on the beach..gif"></td>
 
 </tr>
 <tr>
@@ -357,9 +357,9 @@ Please check our [Project Page](https://follow-your-pose.github.io/) for mp4 fil
 
 <table class="center">
 <tr>
-  <td><img src="https://github.com/mayuelala/FollowYourPose/gif_results/dfewcAstronaut on the beach.gif"></td>
-  <td><img src="https://github.com/mayuelala/FollowYourPose/gif_results/ewA Robot in Antarctica.gif"></td>
-  <td><img src="https://github.com/mayuelala/FollowYourPose/gif_results/vervA Stormtrooper on the sea.gif"></td>
+  <td><img src="https://raw.githubusercontent.com/mayuelala/FollowYourPose/main/gif_results/dfewcAstronaut on the beach.gif"></td>
+  <td><img src="https://raw.githubusercontent.com/mayuelala/FollowYourPose/main/gif_results/ewA Robot in Antarctica.gif"></td>
+  <td><img src="https://raw.githubusercontent.com/mayuelala/FollowYourPose/main/gif_results/vervA Stormtrooper on the sea.gif"></td>
 
 </tr>
 <tr>
