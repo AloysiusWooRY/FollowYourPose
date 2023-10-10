@@ -1,8 +1,8 @@
-pretrained_model_path: "./checkpoints/stable-diffusion-v1-4"
-output_dir: "output"
+pretrained_model_path: /content/FollowYourPose/checkpoints/stable-diffusion-v1-4
+output_dir: /content/custom_model/<model_name>
 
 train_data:
-  video_path: "no path"
+  video_path: /content/training_content/<dataset_folder>
   prompt: "None"
   n_sample_frames: 12
   width: 256
